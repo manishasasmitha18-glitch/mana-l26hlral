@@ -1,0 +1,33 @@
+{
+  "name": "manaofc-lite",
+  "version": "v.6",
+  "description": " WhatsApp Bot - SESSION_ID based (Manaofc Lite)",
+  "main": "manaofc.js",
+  "scripts": {
+    "start": "node manaofc.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "manaofc-node-fetch": "latest",
+    "wa-sticker-formatter": "latest",
+    "moment-timezone": "latest",
+    "manaofc-baileys": "latest",
+    "child_process": "latest",
+    "yt-search": "latest",
+    "express": "latest",
+    "fs-extra": "latest",
+    "cheerio": "latest",
+    "crypto": "latest",
+    "axios": "latest",
+    "path": "latest",
+    "jimp": "latest",
+    "util": "latest",
+    "os": "latest"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [],
+  "author": "manaofc",
+  "license": "MIT"
+}
